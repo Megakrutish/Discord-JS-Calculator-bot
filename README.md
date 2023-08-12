@@ -1,4 +1,5 @@
 # Discord-JS-Calculator-bot 
-Made working this code: https://github.com/DJj123dj/calculator-bot/
+# THE CODE ISNT MINE
+I just made this code compatible with the newest discord.js version: https://github.com/DJj123dj/calculator-bot/
 To run this you need to install node.js and these libraries:
 discord.js, mathjs
