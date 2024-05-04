@@ -8,4 +8,4 @@ Insert bot's token in the config, invite the bot to your server and type "&calcu
 
 
 # Screenshots
-![](https://imgur.com/a/blVp2LA)
+![](https://i.imgur.com/xaoQIoM.png)
