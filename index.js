@@ -308,7 +308,7 @@ client.on("interactionCreate",interaction => {
 
         //setScreen
         var editedScreenEmbed = new EmbedBuilder()
-            .setColor(0x0099FF)
+            .setColor(1146986)
             .setTitle('Calculator')
             .setDescription('=> '+newDisplay)
 
